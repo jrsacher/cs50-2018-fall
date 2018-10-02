@@ -1,3 +1,7 @@
 ## Section 3
 
-`// TODO`
+[Attendance](https://goo.gl/forms/8j2UWT4J9ERj04262)
+
+[Slides](https://docs.google.com/presentation/d/1B2DssNT4P6_-ba3CzwOwxOcw5KVnshItiubgjJBKdTY/edit?usp=sharing)
+
+[Sandbox](http://bit.ly/2P5dgSo)
