@@ -3,7 +3,7 @@
 [Slides](https://docs.google.com/presentation/d/1DC4LwWudps4JQ0jPY4Csbr5vHn4g5Xj6FO8KvS0XpCg/edit?usp=sharing)
 
 [Sandbox problems](http://bit.ly/2C2yCMB)    
-Sandbox solutions
+[Sandbox solutions](http://bit.ly/2CANnY0)
 
 [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSd2CN3RqWJu_Mr8ymIaIXtMWgP7bfNr1QuNub_0b7noAEDfUQ/viewform?usp=sf_link)
 
