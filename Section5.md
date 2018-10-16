@@ -1,8 +1,10 @@
-[Slides](https://docs.google.com/presentation/d/1YP_AqbUC6BiZWuhwc42TgGrgFXBoQNLJjA6gzYaA8lY/edit#slide=id.p) from Emily Hong
-
 [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSeRM5jn-uAtwXzecsLbkB_gTD8tuLefj1UaQQUQoaQC83HRjA/viewform?usp=sf_link)
 
-Stolen from [Veronica's github](https://github.com/veronicanutting/section/blob/master/section.md) (which is awesome; you should check it out).
+[Slides](https://docs.google.com/presentation/d/1YP_AqbUC6BiZWuhwc42TgGrgFXBoQNLJjA6gzYaA8lY/edit#slide=id.p) stolen from Emily Hong
+
+JavaScript `let` vs `var` [explanation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) (simplified answer: `let` is local, `var` is global(ish)).
+
+Links below stolen from [Veronica's github](https://github.com/veronicanutting/section/blob/master/section.md) (which is awesome; you should check it out):
 * TCP/IP
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/5/notes/#networking) on networking
     * [short](https://www.youtube.com/watch?v=A1g9SokDJSU) on IP
@@ -24,5 +26,3 @@ Stolen from [Veronica's github](https://github.com/veronicanutting/section/blob/
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/5/notes/#javascript)
     * [short](https://www.youtube.com/watch?v=Z93IaNfavZw)
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AAB6bGVtKDSfXRnnAA02Wc5oa/JavaScript.pdf?dl=0)
-
-JavaScript `let` vs `var` [explanation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) (simplified answer: `let` is local, `var` is global(ish)).
