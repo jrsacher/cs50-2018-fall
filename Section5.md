@@ -24,3 +24,5 @@ Stolen from [Veronica's github](https://github.com/veronicanutting/section/blob/
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/5/notes/#javascript)
     * [short](https://www.youtube.com/watch?v=Z93IaNfavZw)
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AAB6bGVtKDSfXRnnAA02Wc5oa/JavaScript.pdf?dl=0)
+
+JavaScript `let` vs `var` [explanation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) (simplified answer: `let` is local, `var` is global(ish)).
