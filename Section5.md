@@ -2,7 +2,7 @@
 
 [Slides](https://docs.google.com/presentation/d/1YP_AqbUC6BiZWuhwc42TgGrgFXBoQNLJjA6gzYaA8lY/edit#slide=id.p) stolen from Emily Hong
 
-JavaScript `let` vs `var` [explanation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) (simplified answer: `let` is local, `var` is global(ish)).
+In case you've worked with JavaScript before: `let` vs `var` [explanation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) (simplified answer: `let` is local, `var` is global(ish)).
 
 Links below stolen from [Veronica's github](https://github.com/veronicanutting/section/blob/master/section.md) (which is awesome; you should check it out):
 * TCP/IP
