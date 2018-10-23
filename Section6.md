@@ -6,6 +6,8 @@
 
 [CS50 short on Python](https://www.youtube.com/watch?v=8xCzjOnfQbw&list=PLhQjrBD2T380Ze8wxWJBPgo2XZzYlnN0N&index=2&t=0s)
 
+The [Python 3 documentation](https://docs.python.org/3/) should be a go-to resource!
+
 Fun things to build your (Python) programming skills:
 * [Rosalind](http://rosalind.info/): Biology and bioinformatics based problems
 * [Python Challenge](http://www.pythonchallenge.com/): Solve puzzles to get to the next clue
