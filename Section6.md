@@ -11,3 +11,5 @@ The [Python 3 documentation](https://docs.python.org/3/) should be a go-to resou
 Fun things to build your (Python) programming skills:
 * [Rosalind](http://rosalind.info/): Biology and bioinformatics based problems
 * [Python Challenge](http://www.pythonchallenge.com/): Solve puzzles to get to the next clue
+
+If you're curious, you can see how Staff [implemented cs50.py](https://github.com/cs50/python-cs50/blob/develop/src/cs50/cs50.py), where `get_string` and the like are implemented.
