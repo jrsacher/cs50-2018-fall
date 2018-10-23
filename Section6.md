@@ -8,6 +8,8 @@
 
 The [Python 3 documentation](https://docs.python.org/3/) should be a go-to resource!
 
+Discussion on what it means to be ["pythonic"](https://docs.python-guide.org/writing/style/). Or, in a python interpreter, `import this`.
+
 Fun things to build your (Python) programming skills:
 * [Rosalind](http://rosalind.info/): Biology and bioinformatics based problems
 * [Python Challenge](http://www.pythonchallenge.com/): Solve puzzles to get to the next clue
