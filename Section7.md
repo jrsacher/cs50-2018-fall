@@ -1,8 +1,8 @@
-Slides (coming soon)
+[Slides](https://docs.google.com/presentation/d/1KdhrhxJfEcOC1QxOlNdUbKTSHjyUn2o1w0vrlelt-Qs/edit?usp=sharing) _(work in progress)_
 
 [Improving Mario: C vs Python](http://bit.ly/2zehssp)
 
-[Sandbox](http://bit.ly/2SsdViN) _(work in progress)_
+[Sandbox](http://bit.ly/2SsdViN) 
 
 [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSfMAd_UzG2Rq_TI05xxZ9jdH6OKVxqMCnm89Qwuvz_9a8uHyg/viewform?usp=sf_link)
 
