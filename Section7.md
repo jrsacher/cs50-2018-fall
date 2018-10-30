@@ -1,4 +1,4 @@
-[Slides](https://docs.google.com/presentation/d/1KdhrhxJfEcOC1QxOlNdUbKTSHjyUn2o1w0vrlelt-Qs/edit?usp=sharing) _(work in progress)_
+[Slides](https://docs.google.com/presentation/d/1KdhrhxJfEcOC1QxOlNdUbKTSHjyUn2o1w0vrlelt-Qs/edit?usp=sharing) _(finished-ish)_
 
 [Improving Mario: C vs Python](http://bit.ly/2zehssp)
 
