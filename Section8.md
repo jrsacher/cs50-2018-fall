@@ -1,8 +1,8 @@
-Slides _in progress_
+[Slides](https://docs.google.com/presentation/d/1dsn4xjGMdyskPG7X-sa3uqhvdBB3iSz-sbsyQBktMrs/edit?usp=sharing) _(work in progress)_
 
 [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSdaon-SJlc0inNeTwaY968V4M64LECtyEbZLT0lXxQszqB7Hg/viewform?usp=sf_link)
 
-Sandbox _in progress_
+Sandbox _(work in progress)_
 
 [Veronica's quiz prep info](https://veronicanutting.github.io/section/quiz). She did it better than I could have, so check it out!
 Note especially:
