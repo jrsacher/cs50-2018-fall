@@ -3,6 +3,7 @@
 [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSdaon-SJlc0inNeTwaY968V4M64LECtyEbZLT0lXxQszqB7Hg/viewform?usp=sf_link)
 
 No sandbox this week, but download the music database used in lecture ([lecture.db](https://cdn.cs50.net/2018/fall/lectures/8/src8/)) and play with that!
+To run fullscreen, from the terminal in the proper folder, type `phpliteadmin lecture.db` then click on the link. A bit easier to use.
 
 [Veronica's quiz prep info](https://veronicanutting.github.io/section/quiz). She did it better than I could have, so check it out!
 Note especially:
