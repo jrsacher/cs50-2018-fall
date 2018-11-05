@@ -2,7 +2,7 @@
 
 [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSdaon-SJlc0inNeTwaY968V4M64LECtyEbZLT0lXxQszqB7Hg/viewform?usp=sf_link)
 
-Sandbox _(work in progress)_
+No sandbox this week, but download the music database used in lecture ([lecture.db](https://cdn.cs50.net/2018/fall/lectures/8/src8/)) and play with that!
 
 [Veronica's quiz prep info](https://veronicanutting.github.io/section/quiz). She did it better than I could have, so check it out!
 Note especially:
